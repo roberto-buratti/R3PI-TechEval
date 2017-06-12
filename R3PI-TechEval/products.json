@@ -1,0 +1,25 @@
+[{
+	"code": "#peas-bag",
+    "title": "Peas",
+    "image": "Peas.jpg",
+    "unit": "bag",
+    "price": 0.95
+}, {
+	"code": "#eggs-dozen",
+    "title": "Eggs",
+    "image": "Eggs.jpg",
+    "unit": "dozen",
+    "price": 2.10
+}, {
+	"code": "#milk-bottle",
+    "title": "Milk",
+    "image": "Milk.jpg",
+    "unit": "bottle",
+    "price": 1.30
+}, {
+	"code": "#beans-can",
+    "title": "Beans",
+    "image": "Beans.jpg",
+    "unit": "can",
+    "price": 0.73
+}]
